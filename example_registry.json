@@ -1,0 +1,274 @@
+{
+    "21153e40-4eea-4b4e-bae1-59ec0ccc8016": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/2407436476",
+        "displayName": "! Immersive Beautiful Universe !",
+        "gameRegistryId": "mod/ugc_2407436476.mod",
+        "id": "21153e40-4eea-4b4e-bae1-59ec0ccc8016",
+        "requiredVersion": "*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "2407436476",
+        "tags": [
+            "Graphics"
+        ]
+    },
+    "a6474793-127c-44a2-a1d2-392ebba7ef61": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/683230077",
+        "displayName": "((( NSC3 - Season 1 )))",
+        "gameRegistryId": "mod/ugc_683230077.mod",
+        "id": "a6474793-127c-44a2-a1d2-392ebba7ef61",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "683230077",
+        "tags": [
+            "Spaceships",
+            "Gameplay",
+            "Technologies"
+        ]
+    },
+    "489976f7-b40e-4f37-bc32-b8c7ac1fa4a1": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3155789435",
+        "displayName": "Additional Mega-Engineering Projects",
+        "gameRegistryId": "mod/ugc_3155789435.mod",
+        "id": "489976f7-b40e-4f37-bc32-b8c7ac1fa4a1",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3155789435",
+        "tags": [
+            "Military",
+            "Spaceships",
+            "Economy",
+            "Balance",
+            "Gameplay",
+            "Technologies"
+        ]
+    },
+    "3f41a58d-9923-43d7-98dc-d94bb1411844": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/1346877266",
+        "displayName": "APSR: Anomalies, Planetary and Space Resources",
+        "gameRegistryId": "mod/ugc_1346877266.mod",
+        "id": "3f41a58d-9923-43d7-98dc-d94bb1411844",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "1346877266",
+        "tags": [
+            "Buildings",
+            "Technologies",
+            "Economy",
+            "Gameplay"
+        ]
+    },
+    "747fa98e-5ff9-4414-abce-64468fbff0e0": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3481775336",
+        "displayName": "Better Planet View",
+        "gameRegistryId": "mod/ugc_3481775336.mod",
+        "id": "747fa98e-5ff9-4414-abce-64468fbff0e0",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3481775336",
+        "tags": [
+            "Graphics"
+        ]
+    },
+    "60177cae-5fe2-4acf-ac00-7af7eece65c6": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3490747376",
+        "displayName": "Better Planet View - Zone Compact Mode",
+        "gameRegistryId": "mod/ugc_3490747376.mod",
+        "id": "60177cae-5fe2-4acf-ac00-7af7eece65c6",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3490747376",
+        "tags": [
+            "Graphics"
+        ]
+    },
+    "a473c154-3415-4081-a838-8c3c8c15a610": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3496262792",
+        "displayName": "Chris’ Covert Operations",
+        "gameRegistryId": "mod/ugc_3496262792.mod",
+        "id": "a473c154-3415-4081-a838-8c3c8c15a610",
+        "requiredVersion": "v4.0.16",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3496262792",
+        "tags": [
+            "Events",
+            "Gameplay"
+        ]
+    },
+    "2b75f108-e43b-41ff-a66d-985301646264": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3481894042",
+        "displayName": "Extra Buildings - All in One (4.0+)",
+        "gameRegistryId": "mod/ugc_3481894042.mod",
+        "id": "2b75f108-e43b-41ff-a66d-985301646264",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3481894042",
+        "tags": [
+            "Buildings"
+        ]
+    },
+    "d9c99680-f04b-4d1d-87d2-ceb0613376de": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/2389164674",
+        "displayName": "Fatherland: Colonial Empires",
+        "gameRegistryId": "mod/ugc_2389164674.mod",
+        "id": "d9c99680-f04b-4d1d-87d2-ceb0613376de",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "2389164674",
+        "tags": [
+            "Gameplay",
+            "Events"
+        ]
+    },
+    "b4be5d0b-a6c9-49f9-a75d-2ef7375ea6c1": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/1121692237",
+        "displayName": "Gigastructural Engineering & More (4.0)",
+        "gameRegistryId": "mod/ugc_1121692237.mod",
+        "id": "b4be5d0b-a6c9-49f9-a75d-2ef7375ea6c1",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "1121692237",
+        "tags": [
+            "Gameplay",
+            "Megastructures"
+        ]
+    },
+    "e6ad97cf-4d66-467f-84cc-9378e4941dce": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3483725376",
+        "displayName": "Greedy Overlord: Bleed the Vassals Dry",
+        "gameRegistryId": "mod/ugc_3483725376.mod",
+        "id": "e6ad97cf-4d66-467f-84cc-9378e4941dce",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3483725376",
+        "tags": [
+            "Balance",
+            "Fixes",
+            "Economy",
+            "Diplomacy",
+            "Overhaul",
+            "Graphics"
+        ]
+    },
+    "5c392d83-3d0c-47aa-93c2-0ddd45614541": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3340363903",
+        "displayName": "Less Holes In Borders",
+        "gameRegistryId": "mod/ugc_3340363903.mod",
+        "id": "5c392d83-3d0c-47aa-93c2-0ddd45614541",
+        "requiredVersion": "v*.*.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3340363903",
+        "tags": [
+            "Graphics",
+            "Fixes",
+            "Utilities"
+        ]
+    },
+    "92a55076-1e5f-40ca-b2eb-14646cebd412": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3477695569",
+        "displayName": "Light Borders + Swapped Colors + Star Pins [4.0+]",
+        "gameRegistryId": "mod/ugc_3477695569.mod",
+        "id": "92a55076-1e5f-40ca-b2eb-14646cebd412",
+        "requiredVersion": "v4.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3477695569",
+        "tags": [
+            "Graphics",
+            "Fixes"
+        ]
+    },
+    "9331850e-ef2a-4133-bd98-fffbeb41755a": {
+        "dirPath": "/run/media/pawbeans/Project Drive/Projects/Stellaris/Lustful Void",
+        "displayName": "Lustful Void",
+        "gameRegistryId": "mod/Lustful Void.mod",
+        "id": "9331850e-ef2a-4133-bd98-fffbeb41755a",
+        "requiredVersion": "v4.0.*",
+        "source": "local",
+        "status": "ready_to_play",
+        "tags": [
+            "No more tags!"
+        ]
+    },
+    "7938992f-de26-42dc-8611-38405ff7ec22": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/3486446795",
+        "displayName": "More and Scrollable Building Slots for Zones",
+        "gameRegistryId": "mod/ugc_3486446795.mod",
+        "id": "7938992f-de26-42dc-8611-38405ff7ec22",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "3486446795",
+        "tags": [
+            "Building Slots",
+            "More Building Slots",
+            "Scrollable Building Slots"
+        ]
+    },
+    "263e8770-abb1-42cb-8a59-575331a39fbb": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/727000451",
+        "displayName": "More Events Mod",
+        "gameRegistryId": "mod/ugc_727000451.mod",
+        "id": "263e8770-abb1-42cb-8a59-575331a39fbb",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "727000451",
+        "tags": [
+            "Events"
+        ]
+    },
+    "54e1a30a-9317-4207-a360-a7a68377b092": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/1899956495",
+        "displayName": "No Peace From War Exhaustion",
+        "gameRegistryId": "mod/ugc_1899956495.mod",
+        "id": "54e1a30a-9317-4207-a360-a7a68377b092",
+        "requiredVersion": "3.10.4",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "1899956495",
+        "tags": [
+            "Fixes",
+            "Utilities",
+            "Balance"
+        ]
+    },
+    "e71c43a2-5a32-4de9-a81e-3e217e1564a3": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/819148835",
+        "displayName": "Planetary Diversity",
+        "gameRegistryId": "mod/ugc_819148835.mod",
+        "id": "e71c43a2-5a32-4de9-a81e-3e217e1564a3",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "819148835",
+        "tags": [
+            "Galaxy Generation",
+            "Gameplay"
+        ]
+    },
+    "0a33e11a-9cb3-4193-969f-f078d8949e7c": {
+        "dirPath": "/home/pawbeans/.local/share/Steam/steamapps/workshop/content/281990/2284514368",
+        "displayName": "Planetary Diversity - Gaia Worlds",
+        "gameRegistryId": "mod/ugc_2284514368.mod",
+        "id": "0a33e11a-9cb3-4193-969f-f078d8949e7c",
+        "requiredVersion": "v4.0.*",
+        "source": "steam",
+        "status": "ready_to_play",
+        "steamId": "2284514368",
+        "tags": [
+            "Graphics"
+        ]
+    }
+}

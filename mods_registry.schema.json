@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "patternProperties": {
+    "^[a-f0-9\\-]+$": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "displayName": { "type": "string" },
+        "dirPath": { "type": "string" },
+        "gameRegistryId": { "type": "string" },
+        "requiredVersion": { "type": "string" },
+        "source": { "type": "string" },
+        "status": { "type": "string" },
+        "steamId": { "type": ["string", "integer"] },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["id", "displayName", "dirPath", "gameRegistryId", "source"]
+    }
+  }
+}

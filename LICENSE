@@ -1,0 +1,37 @@
+# Soldatenkammer E-Commerce Platform
+
+Copyright (c) 2025 Official-Husko
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+## Additional Terms (Soldatenkammer License Addendum)
+
+1. **Non-Commercial Source Distribution:**
+   - You may NOT sell this software, its source code, or any derivative works as a product or service.
+   - You may NOT use this software or derivatives in proprietary or closed-source commercial products.
+   - You MAY use this software to operate an online shop or similar service, including for-profit sales of items, as long as the source code remains available and AGPL terms are followed.
+
+2. **Source Code Availability:**
+   - If you modify or deploy this software (including over a network), you MUST make the complete source code (including your modifications) available under the same license.
+
+3. **Attribution and Credits:**
+   - You MUST provide appropriate credit for any third-party resources used, as specified in their respective licenses.
+   - You MUST retain this copyright notice and license in all copies or substantial portions of the software.
+
+4. **No Warranty:**
+   - This software is provided "as is", without warranty of any kind.
+
+For the full AGPL-3.0 license text, see: <https://www.gnu.org/licenses/agpl-3.0.html>
