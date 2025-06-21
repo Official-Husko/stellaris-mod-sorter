@@ -1,4 +1,4 @@
-# Stellaris Mod Sorter (Go)
+# Stellaris Mod Sorter
 
 A modern, fast, and reliable tool to manage and sort your Stellaris mods. Written in Go, this application reads your mod configuration, sorts mods based on dependencies, tags, and custom rules, and writes the correct load order for the game.
 
@@ -14,7 +14,7 @@ A modern, fast, and reliable tool to manage and sort your Stellaris mods. Writte
 
 ## 📁 Project Structure
 
-```
+```plaintext
 stellaris-mod-sorter-go/
 ├── cmd/
 │   └── main.go            # Application entry point
